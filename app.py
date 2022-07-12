@@ -12,7 +12,7 @@ if __name__ == "__main__":
     #listpath
     path = os.getcwd()
     path_query = path + '/sql/'
-
+ 
     #list filename
     file_query = 'dml_query_1.sql'
 
